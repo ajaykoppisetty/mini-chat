@@ -1,4 +1,4 @@
 mini-chat
 =========
 
-Chat con Node.js, Express y Socket.io
+Chat with Node.js, Express and Socket.io - Realtime
